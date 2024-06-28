@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/santanutech360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanutech360" height="30" width="40" /></a>
+<a href="https://https://bd.linkedin.com/in/santanu-banik-a208651b2?challengeId=AQG0MAd6k0R9SQAAAZBdrnBSjNVJZK9hAMmqJL8X9jSp_xxdt8ts7U85JjfRkRVKDQK1Lko4jVL9vpnQAsDKtphtGoX8jX-B3g&submissionId=e62956d9-7619-dd17-d6cb-87025a03a132&challengeSource=AgFq5Ww3v06ogAAAAZBdrpb7vpLpfJr_62M3z9CGPu2Hzyan5dW9A1fJTJyZ1pg&challegeType=AgFGn-5ifadZdQAAAZBdrpb-JP60jqzrOGO7qWWgQWjNmbwhqaAaxW0&memberId=AgGiHKponTWJewAAAZBdrpcBSSCWlRVzQVofKfEHiDzsSSA&recognizeDevice=AgHA2GP-LblQkwAAAZBdrpcEXdLTQzL7mwKOqJA4EjyYcTe3oCl2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanutech360" height="30" width="40" /></a>
 <a href="https://fb.com/santanubanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santanubanik" height="30" width="40" /></a>
-<a href="https://instagram.com/_santanu_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_santanu_b" height="30" width="40" /></a>
+<a href="https://instagram.com/_santanu_b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_santanu_b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
