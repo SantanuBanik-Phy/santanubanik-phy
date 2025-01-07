@@ -24,6 +24,11 @@
 
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,tailwind,linux,vscode&perline=6" /> </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanubanik-phy&show_icons=true&locale=en&layout=compact" alt="santanubanik-phy" /></p>
+📊 GitHub Statistics 📊
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santanubanik-phy&show_icons=true&locale=en" alt="santanubanik-phy" /></p>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+<p><img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanubanik-phy&show_icons=true&locale=en&layout=compact" alt="santanubanik-phy" /></p>
+
+<p>&nbsp;<img width="325"  src="https://github-readme-stats.vercel.app/api?username=santanubanik-phy&show_icons=true&locale=en" alt="santanubanik-phy" /></p>
+</div>
