@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Python in Advance and Research Related Work.**
 
-- 👨‍💻 All of my projects are available at [https://santanubanik-phy.github.io/My-Protfolio-Project/](https://santanubanik-phy.github.io/My-Protfolio-Project/)
-
-- 📝 I regularly write articles on [www.santanuetch360.com](www.santanuetch360.com)
+- 👨‍💻 All of my projects are available at [My-Protfolio](https://santanu-portfolio-zeta.vercel.app/))
 
 - 💬 Ask me about **Python,Physics,Web development.**
 
