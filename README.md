@@ -1,34 +1,85 @@
-<h1 align="center">Hi 👋, I'm Santanu Banik</h1>
-<h3 align="center">A passionate Programmer and research sicking in Physics from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santanubanik-phy&label=Profile%20views&color=0e75b6&style=flat" alt="santanubanik-phy" /> </p>
-
-- 🔭 I’m currently working on **Santanu's Dream Project**
-
-- 🌱 I’m currently learning **Python in Advance and Research Related Work.**
-
-- 👨‍💻 All of my projects are available at [My-Protfolio](https://santanu-portfolio-zeta.vercel.app/))
-
-- 💬 Ask me about **Python,Physics,Web development.**
-
-- 📫 How to reach me **Santanubanik2k@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://https://bd.linkedin.com/in/santanu-banik-a208651b2?challengeId=AQG0MAd6k0R9SQAAAZBdrnBSjNVJZK9hAMmqJL8X9jSp_xxdt8ts7U85JjfRkRVKDQK1Lko4jVL9vpnQAsDKtphtGoX8jX-B3g&submissionId=e62956d9-7619-dd17-d6cb-87025a03a132&challengeSource=AgFq5Ww3v06ogAAAAZBdrpb7vpLpfJr_62M3z9CGPu2Hzyan5dW9A1fJTJyZ1pg&challegeType=AgFGn-5ifadZdQAAAZBdrpb-JP60jqzrOGO7qWWgQWjNmbwhqaAaxW0&memberId=AgGiHKponTWJewAAAZBdrpcBSSCWlRVzQVofKfEHiDzsSSA&recognizeDevice=AgHA2GP-LblQkwAAAZBdrpcEXdLTQzL7mwKOqJA4EjyYcTe3oCl2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santanutech360" height="30" width="40" /></a>
-<a href="https://fb.com/santanubanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santanubanik" height="30" width="40" /></a>
-<a href="https://instagram.com/_santanu_b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_santanu_b" height="30" width="40" /></a>
-</p>
-
-🛠️ Technologies & Tools 🛠️
-
-<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,git,tailwind,linux,vscode&perline=6" /> </div>
-
-📊 GitHub Statistics 📊
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-
-<p><img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=santanubanik-phy&show_icons=true&locale=en&layout=compact" alt="santanubanik-phy" /></p>
-
-<p>&nbsp;<img width="325"  src="https://github-readme-stats.vercel.app/api?username=santanubanik-phy&show_icons=true&locale=en" alt="santanubanik-phy" /></p>
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/SantanuBanik-Phy/santanubanik-phy/refs/heads/main/Blue%20Modern%20Professional%20Financial%20Consultant%20LinkedIn%20Banner%20.png"  />
 </div>
+
+###
+
+<h1 align="center">Hi 👋, I'm Santanu Banik</h1>
+
+###
+
+<h4 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h4>
+
+###
+
+<p align="left">I am a FullStack Developer Specialized at Mern-Stack technology.  Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">♨ Check out my portfolio and projects at [https://santanu-portfolio-zeta.vercel.app/](https://santanu-portfolio-zeta.vercel.app/)<br><br>🌱 I’m currently learning Next.js,Typescript.<br><br>💬 Ask me about Html, CSS, JavaScript, React, Node Js, MongoDB<br><br>📫 How to reach me **Santanubanik2k@gmail.com**<br><br>⚡ Fun fact I am Coffee addict</p>
+
+###
+
+<h2 align="left">🛠️ Technologies & Tools 🛠️</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="center">🤝 Connect with Me 🤝</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/santanu-banik-a208651b2/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/_Santanu_b?t=zo07O_uFL3syjUkqQKx8qg&s=09" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://www.facebook.com/santanu.banik.779" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantanuBanik-Phy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantanuBanik-Phy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantanuBanik-Phy&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
