@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">♨ Check out my portfolio and projects at [https://santanu-portfolio-zeta.vercel.app/](https://santanu-portfolio-zeta.vercel.app/)<br><br>🌱 I’m currently learning Next.js,Typescript.<br><br>💬 Ask me about Html, CSS, JavaScript, React, Node Js, MongoDB<br><br>📫 How to reach me **Santanubanik2k@gmail.com**<br><br>⚡ Fun fact I am Coffee addict</p>
+<p align="left">♨ Check out my portfolio and projects at https://santanu-portfolio-zeta.vercel.app/<br><br>🌱 I’m currently learning Next.js,Typescript.<br><br>💬 Ask me about Html, CSS, JavaScript, React, Node Js, MongoDB<br><br>📫 How to reach me **Santanubanik2k@gmail.com**<br><br>⚡ Fun fact I am Coffee addict</p>
 
 ###
 
