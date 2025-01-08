@@ -8,11 +8,11 @@
 
 ###
 
-<h4 align="center">Professional Full-Stack Web Developer(MERN) From Bangladesh</h4>
+<h4 align="center">Professional Front end Web Develope From Bangladesh</h4>
 
 ###
 
-<p align="left">I am a FullStack Developer Specialized at Mern-Stack technology.  Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
+<p align="left">I am a Front end Web Developer . Lets explore my Github and connect with me. I want to express my innovative, creative skills for company growth through the assigned responsibility.</p>
 
 ###
 
